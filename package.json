@@ -22,5 +22,14 @@
     "body-parser": "^1.20.3",
     "web-vitals": "^4.2.4",
     "web3": "^4.16.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kiruthika-27/ROAD_HAZARD_DETECTION.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Kiruthika-27/ROAD_HAZARD_DETECTION/issues"
+  },
+  "homepage": "https://github.com/Kiruthika-27/ROAD_HAZARD_DETECTION#readme"
 }
