@@ -1,0 +1,24 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@helia/unixfs": "^1.4.3",
+    "@ipld/unixfs": "^3.0.0",
+    "blockstore-core": "^5.0.2",
+    "blockstore-fs": "^1.1.11",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "helia": "^5.1.1",
+    "ipfs-unixfs-importer": "^15.3.1",
+    "node-datachannel": "^0.23.0",
+    "nodemon": "^3.0.2"
+  }
+}

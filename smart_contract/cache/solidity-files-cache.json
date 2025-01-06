@@ -1,0 +1,217 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "D:\\Road_Hazard_Detection\\smart_contract\\contracts\\TrafficDataStorage.sol": {
+      "lastModificationDate": 1734338606132,
+      "contentHash": "04ef376807b37ec8d79730a052c6e1e8",
+      "sourceName": "contracts/TrafficDataStorage.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "TrafficDataStorage"
+      ]
+    },
+    "D:\\Road_Hazard_Detection\\smart_contract\\contracts\\MyContract.sol": {
+      "lastModificationDate": 1734402241122,
+      "contentHash": "75b980fa60e8b844dc4fe9453db2566c",
+      "sourceName": "contracts/MyContract.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "MyContract"
+      ]
+    },
+    "D:\\Documents\\Road\\Road_Hazard_Detection\\smart_contract\\contracts\\AccidentDataStorage.sol": {
+      "lastModificationDate": 1735800481322,
+      "contentHash": "7b55dac6e460f2c3ff8ac30afebf0ab0",
+      "sourceName": "contracts/AccidentDataStorage.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "AccidentDataStorage"
+      ]
+    },
+    "D:\\Documents\\Road\\Road_Hazard_Detection\\smart_contract\\contracts\\MyContract.sol": {
+      "lastModificationDate": 1735792986693,
+      "contentHash": "bc7830ecd8561c61f586ed184817b847",
+      "sourceName": "contracts/MyContract.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "MyContract"
+      ]
+    },
+    "D:\\Documents\\Road\\Road_Hazard_Detection\\smart_contract\\contracts\\TrafficDataStorage.sol": {
+      "lastModificationDate": 1735792968195,
+      "contentHash": "32a32a85f90317fe6a66e1edb83e7cd8",
+      "sourceName": "contracts/TrafficDataStorage.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "TrafficDataStorage"
+      ]
+    },
+    "D:\\Documents\\Road\\Road_Hazard_Detection\\smart_contract\\contracts\\DataStorage.sol": {
+      "lastModificationDate": 1735892375708,
+      "contentHash": "b5e233ec9176633d3cdf2897399637f8",
+      "sourceName": "contracts/DataStorage.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "DataStorage"
+      ]
+    }
+  }
+}

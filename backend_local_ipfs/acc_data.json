@@ -1,0 +1,296 @@
+[
+    {
+        "receiver": "Vehicle_5",
+        "sender": "Vehicle_1",
+        "message_type": "sudden_stop",
+        "timestamp": 10.8
+    },
+    {
+        "receiver": "Vehicle_1",
+        "sender": "Vehicle_2",
+        "message_type": "accident",
+        "timestamp": 36.0
+    },
+    {
+        "receiver": "Vehicle_2",
+        "sender": "Vehicle_1",
+        "message_type": "sudden_stop",
+        "timestamp": 40.4
+    },
+    {
+        "receiver": "Vehicle_1",
+        "sender": "Vehicle_2",
+        "message_type": "accident",
+        "timestamp": 62.4
+    },
+    {
+        "receiver": "Vehicle_5",
+        "sender": "Vehicle_2",
+        "message_type": "accident",
+        "timestamp": 62.4
+    },
+    {
+        "receiver": "Vehicle_1",
+        "sender": "Vehicle_5",
+        "message_type": "sudden_stop",
+        "timestamp": 110.0
+    },
+    {
+        "receiver": "Vehicle_2",
+        "sender": "Vehicle_5",
+        "message_type": "sudden_stop",
+        "timestamp": 110.0
+    },
+    {
+        "receiver": "Vehicle_1",
+        "sender": "Vehicle_2",
+        "message_type": "accident",
+        "timestamp": 112.0
+    },
+    {
+        "receiver": "Vehicle_5",
+        "sender": "Vehicle_2",
+        "message_type": "accident",
+        "timestamp": 112.0
+    },
+    {
+        "receiver": "Vehicle_1",
+        "sender": "Vehicle_5",
+        "message_type": "sudden_stop",
+        "timestamp": 122.0
+    },
+    {
+        "receiver": "Vehicle_2",
+        "sender": "Vehicle_5",
+        "message_type": "sudden_stop",
+        "timestamp": 122.0
+    },
+    {
+        "receiver": "Vehicle_1",
+        "sender": "Vehicle_5",
+        "message_type": "accident",
+        "timestamp": 126.4
+    },
+    {
+        "receiver": "Vehicle_2",
+        "sender": "Vehicle_5",
+        "message_type": "accident",
+        "timestamp": 126.4
+    },
+    {
+        "receiver": "Vehicle_3",
+        "sender": "Vehicle_4",
+        "message_type": "sudden_stop",
+        "timestamp": 126.8
+    },
+    {
+        "receiver": "Vehicle_1",
+        "sender": "Vehicle_2",
+        "message_type": "accident",
+        "timestamp": 128.0
+    },
+    {
+        "receiver": "Vehicle_5",
+        "sender": "Vehicle_2",
+        "message_type": "accident",
+        "timestamp": 128.0
+    },
+    {
+        "receiver": "Vehicle_2",
+        "sender": "Vehicle_1",
+        "message_type": "accident",
+        "timestamp": 130.0
+    },
+    {
+        "receiver": "Vehicle_5",
+        "sender": "Vehicle_1",
+        "message_type": "accident",
+        "timestamp": 130.0
+    },
+    {
+        "receiver": "Vehicle_1",
+        "sender": "Vehicle_5",
+        "message_type": "accident",
+        "timestamp": 160.0
+    },
+    {
+        "receiver": "Vehicle_2",
+        "sender": "Vehicle_5",
+        "message_type": "accident",
+        "timestamp": 160.0
+    },
+    {
+        "receiver": "Vehicle_4",
+        "sender": "Vehicle_3",
+        "message_type": "sudden_stop",
+        "timestamp": 162.8
+    },
+    {
+        "receiver": "Vehicle_1",
+        "sender": "Vehicle_2",
+        "message_type": "sudden_stop",
+        "timestamp": 169.2
+    },
+    {
+        "receiver": "Vehicle_5",
+        "sender": "Vehicle_2",
+        "message_type": "sudden_stop",
+        "timestamp": 169.2
+    },
+    {
+        "receiver": "Vehicle_1",
+        "sender": "Vehicle_5",
+        "message_type": "accident",
+        "timestamp": 177.2
+    },
+    {
+        "receiver": "Vehicle_2",
+        "sender": "Vehicle_5",
+        "message_type": "accident",
+        "timestamp": 177.2
+    },
+    {
+        "receiver": "Vehicle_1",
+        "sender": "Vehicle_5",
+        "message_type": "sudden_stop",
+        "timestamp": 183.6
+    },
+    {
+        "receiver": "Vehicle_2",
+        "sender": "Vehicle_5",
+        "message_type": "sudden_stop",
+        "timestamp": 183.6
+    },
+    {
+        "receiver": "Vehicle_2",
+        "sender": "Vehicle_1",
+        "message_type": "accident",
+        "timestamp": 188.4
+    },
+    {
+        "receiver": "Vehicle_5",
+        "sender": "Vehicle_1",
+        "message_type": "accident",
+        "timestamp": 188.4
+    },
+    {
+        "receiver": "Vehicle_4",
+        "sender": "Vehicle_3",
+        "message_type": "sudden_stop",
+        "timestamp": 190.4
+    },
+    {
+        "receiver": "Vehicle_1",
+        "sender": "Vehicle_5",
+        "message_type": "accident",
+        "timestamp": 198.0
+    },
+    {
+        "receiver": "Vehicle_2",
+        "sender": "Vehicle_5",
+        "message_type": "accident",
+        "timestamp": 198.0
+    },
+    {
+        "receiver": "Vehicle_5",
+        "sender": "Vehicle_1",
+        "message_type": "accident",
+        "timestamp": 264.4
+    },
+    {
+        "receiver": "Vehicle_1",
+        "sender": "Vehicle_4",
+        "message_type": "accident",
+        "timestamp": 275.6
+    },
+    {
+        "receiver": "Vehicle_5",
+        "sender": "Vehicle_4",
+        "message_type": "accident",
+        "timestamp": 275.6
+    },
+    {
+        "receiver": "Vehicle_3",
+        "sender": "Vehicle_1",
+        "message_type": "accident",
+        "timestamp": 285.6
+    },
+    {
+        "receiver": "Vehicle_4",
+        "sender": "Vehicle_1",
+        "message_type": "accident",
+        "timestamp": 285.6
+    },
+    {
+        "receiver": "Vehicle_5",
+        "sender": "Vehicle_1",
+        "message_type": "accident",
+        "timestamp": 285.6
+    },
+    {
+        "receiver": "Vehicle_3",
+        "sender": "Vehicle_1",
+        "message_type": "accident",
+        "timestamp": 303.6
+    },
+    {
+        "receiver": "Vehicle_5",
+        "sender": "Vehicle_1",
+        "message_type": "accident",
+        "timestamp": 303.6
+    },
+    {
+        "receiver": "Vehicle_1",
+        "sender": "Vehicle_3",
+        "message_type": "accident",
+        "timestamp": 306.0
+    },
+    {
+        "receiver": "Vehicle_5",
+        "sender": "Vehicle_3",
+        "message_type": "accident",
+        "timestamp": 306.0
+    },
+    {
+        "receiver": "Vehicle_1",
+        "sender": "Vehicle_3",
+        "message_type": "accident",
+        "timestamp": 347.2
+    },
+    {
+        "receiver": "Vehicle_5",
+        "sender": "Vehicle_3",
+        "message_type": "accident",
+        "timestamp": 347.2
+    },
+    {
+        "receiver": "Vehicle_5",
+        "sender": "Vehicle_1",
+        "message_type": "sudden_stop",
+        "timestamp": 354.0
+    },
+    {
+        "receiver": "Vehicle_1",
+        "sender": "Vehicle_5",
+        "message_type": "accident",
+        "timestamp": 382.8
+    },
+    {
+        "receiver": "Vehicle_1",
+        "sender": "Vehicle_5",
+        "message_type": "accident",
+        "timestamp": 414.0
+    },
+    {
+        "receiver": "Vehicle_5",
+        "sender": "Vehicle_1",
+        "message_type": "accident",
+        "timestamp": 422.0
+    },
+    {
+        "receiver": "Vehicle_1",
+        "sender": "Vehicle_5",
+        "message_type": "accident",
+        "timestamp": 428.8
+    }
+]
