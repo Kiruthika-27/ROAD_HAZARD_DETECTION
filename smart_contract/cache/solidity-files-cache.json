@@ -179,8 +179,8 @@
       ]
     },
     "D:\\Documents\\Road\\Road_Hazard_Detection\\smart_contract\\contracts\\DataStorage.sol": {
-      "lastModificationDate": 1735892375708,
-      "contentHash": "b5e233ec9176633d3cdf2897399637f8",
+      "lastModificationDate": 1736329369993,
+      "contentHash": "296921aaf69ada4801c11535426ca9d4",
       "sourceName": "contracts/DataStorage.sol",
       "solcConfig": {
         "version": "0.8.0",
@@ -210,7 +210,42 @@
         "^0.8.0"
       ],
       "artifacts": [
-        "DataStorage"
+        "RoadHazardStorage"
+      ]
+    },
+    "D:\\Documents\\Road\\Road_Hazard_Detection\\smart_contract\\contracts\\RoadHazardStorage.sol": {
+      "lastModificationDate": 1736329388921,
+      "contentHash": "296921aaf69ada4801c11535426ca9d4",
+      "sourceName": "contracts/RoadHazardStorage.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "RoadHazardStorage"
       ]
     }
   }

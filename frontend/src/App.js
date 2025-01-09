@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { ethers } from "ethers";
-import DataStorage from "./artifacts/DataStorage.json"; // Make sure this points to your compiled contract ABI
+import DataStorage from "./artifacts/RoadHazardStorage.json"; // Make sure this points to your compiled contract ABI
 
 function App() {
     const [trafficIpfsHash, setTrafficIpfsHash] = useState("");
@@ -33,7 +33,7 @@ function App() {
                 const provider = new ethers.providers.Web3Provider(window.ethereum);
                 const signer = provider.getSigner();
                 const contract = new ethers.Contract(
-                    "0xC44e0a6d50024c1E75e7F9Dfa2a86Bb764C89778", // Replace with your contract address
+                    "0x8Fa7F30445d634F79635CaDD323e08A38f6344f5", // Replace with your contract address
                     DataStorage.abi,
                     signer
                 );
